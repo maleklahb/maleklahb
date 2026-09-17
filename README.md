@@ -3,7 +3,7 @@
 
 -- About Me
 
- I'm an Information Management student from Tunisia 🇹🇳 with a strong interest in technology, data, and business intelligence.
+ I'm an Information Management student from Tunisia with a strong interest in technology, data, and business intelligence.
 
  I enjoy transforming problems into practical technical solutions and continuously improving my programming and data skills.
 
