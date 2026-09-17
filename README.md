@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I'm Malek
+ Information Management Student |  Data & Business Intelligence Enthusiast 👋
 
-<!--
-**maleklahb/maleklahb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-- About Me
 
-Here are some ideas to get you started:
+ I'm an Information Management student from Tunisia 🇹🇳 with a strong interest in technology, data, and business intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ I enjoy transforming problems into practical technical solutions and continuously improving my programming and data skills.
+
+-- My main areas of interest are:
+
+* Data Analysis
+* Business Intelligence
+* Python
+* Databases & SQL
+* Software Development
+* Cybersecurity
+* Data Visualization
+
+ My goal: Build real-world projects, strengthen my technical skills, and prepare myself for opportunities in Data, Business Intelligence, and Information Technology.
