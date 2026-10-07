@@ -14,7 +14,6 @@
 * Python
 * Databases & SQL
 * Software Development
-* Cybersecurity
 * Data Visualization
 
  My goal: Build real-world projects, strengthen my technical skills, and prepare myself for opportunities in Data, Business Intelligence, and Information Technology.
